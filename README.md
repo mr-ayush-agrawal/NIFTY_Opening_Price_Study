@@ -9,4 +9,15 @@ This folder contains all the Data of different stock Market indices that we are 
 
 All the files will have the **Opening, Closing, High, Low, Adjusted Clossed and Volume** Data for all the Markets.
 
-PS : Data in the we Have are From <Start Date> to <End Data>
+PS : Data in the we Have are From ***2008-01-02*** to ***2018-08-21***
+
+### :warning: Caution
+**The data used in this program is old.**
+
+The reason for this the site [Yahoo Finance](#) was not giving the option for downloading the data. So I have sourced the data from another source which was providing me only this data.
+
+
+##  :copyright: License
+
+This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). See the [LICENSE](LICENSE) file for details.
+
